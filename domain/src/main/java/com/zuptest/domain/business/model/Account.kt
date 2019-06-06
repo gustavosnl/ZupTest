@@ -1,4 +1,4 @@
-package com.zuptest.santander.domain.business.model
+package com.zuptest.domain.business.model
 
 data class Account(
     val id: Int,
